@@ -1,0 +1,1 @@
+apt install nginx php-{bcmath,bz2,common,curl,fpm,gd,imagick,imap,intl,json,ldap,mbstring,mysql,readline,snmp,soap,tidy,xml,xmlrpc,zip} mariadb-{client,server} proftpd
